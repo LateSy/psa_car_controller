@@ -250,3 +250,10 @@
   abrp_name: opel:comboe:22:50
   reg: W0VEAZKXZM.*
   max_elec_consumption: 45
+- !ElecModel
+  name: e-Berlingo
+  battery_power: 50
+  fuel_capacity: 0
+  abrp_name: opel:comboe:22:50:citroen
+  reg: VR7EZZKXZM.*
+  max_elec_consumption: 45
